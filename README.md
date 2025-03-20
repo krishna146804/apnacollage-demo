@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first  git repository.
 <br>
-Author -krishna
+Author -krishna (united university)
